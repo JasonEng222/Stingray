@@ -18,7 +18,7 @@ function App() {
           Aldo Wifi Setup Video
         </div>
         <div className="VideoCenter">
-          <ReactPlayer controls url='https://www.youtube.com/watch?v=fIfJLvHfV6c'/>
+          <ReactPlayer controls url='https://www.youtube.com/watch?v=dQw4w9WgXcQ'/>
         </div>
       </div>
     </div>
